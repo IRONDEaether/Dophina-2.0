@@ -13,3 +13,10 @@ In Dophina 2.0, the maximum security score for any active and functional website
 The project is split into two distinct scripts to maximize performance and code cleanliness:
 * `interface.py`: The graphical user interface (GUI), compiled with the console hidden.
 * `S_2.PY`: The backend network scanning engine and logical server running in the background.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9d2ed8c-1c39-4235-b5ba-08e5d2e6df5a" />
+Innovation: The Aging Risk
+Dophina 2.0 doesn't just analyze the present. It embeds a unique time-projection algorithm. By assessing the current versions of detected technologies (such as server signatures, JavaScript libraries, or network headers), the application computes their **obsolescence index projected for the year 2029**.
+* **What it measures:** A web structure's resilience against future waves of exploits without immediate updates. A higher risk score (e.g., 44%) highlights a critical near-future vulnerability as hacking methodologies advance.
+The "Zero-Bloat" Approach
+Unlike massive security tools that overwhelm users with noise, Dophina 2.0 provides **surgical precision**. As soon as a vulnerability is detected, the scanner immediately outputs the exact command or HTTP header needed to harden the server.
+  
