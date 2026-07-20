@@ -210,5 +210,5 @@ def dophina_engine_11_etapes(url, annees_simulees=3):
         print(f"Erreur globale : {e}")
 
 # Lancement sur Space Jam
-url_cible = "https://www.spacejam.com/1996/"
+url_cible = "https://www.exemple.com"
 dophina_engine_11_etapes(url_cible, annees_simulees=3)
