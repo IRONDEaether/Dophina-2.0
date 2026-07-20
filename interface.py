@@ -92,7 +92,7 @@ label_url = tk.Label(frame_saisie, text="Adresse du site (URL) :", font=("Helvet
 label_url.pack(anchor="w", padx=5)
 
 url_entry = tk.Entry(frame_saisie, width=45, font=("Helvetica", 12), bd=2, relief="groove")
-url_entry.insert(0, "https://www.wikipedia.org") # Exemple par défaut
+url_entry.insert(0, "https://example.com") # Exemple par défaut
 url_entry.pack(pady=5, ipady=4)
 
 # Barre de progression pro (indéterminée)
